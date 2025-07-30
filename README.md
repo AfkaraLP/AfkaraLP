@@ -34,8 +34,8 @@ When I'm not coding, I'm cooking up the next big Minceraft Youtuber Intro from 2
 ### GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfkaraLP&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfkaraLP&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://snap‑changelog-service/your_profile.png" alt="Recent activity"/>
+  <img src="https://your‑instance.vercel.app/api/top-langs/?username=AfkaraLP&show_icons=true&theme=tokyonight" alt="Top languages"/>
 </p>
 
 
