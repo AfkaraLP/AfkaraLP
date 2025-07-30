@@ -39,10 +39,6 @@ When I'm not coding, I'm cooking up the next big Minceraft Youtuber Intro from 2
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfkaraLP&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AfkaraLP&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
-</p>
-
 
 ---
 
