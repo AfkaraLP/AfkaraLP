@@ -28,6 +28,8 @@ When I'm not coding, I'm cooking up the next big Minceraft Youtuber Intro from 2
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Nix](https://img.shields.io/badge/-Nix-5277C3?logo=nixos&logoColor=white&style=flat)
+![Haskell](https://img.shields.io/badge/-Haskell-5E5086?logo=haskell&logoColor=white&style=flat)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
 
 ---
 
