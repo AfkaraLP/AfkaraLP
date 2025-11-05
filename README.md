@@ -30,6 +30,7 @@ When I'm not coding, I'm cooking up the next big Minceraft Youtuber Intro from 2
 ![Nix](https://img.shields.io/badge/-Nix-5277C3?logo=nixos&logoColor=white&style=flat)
 ![Haskell](https://img.shields.io/badge/-Haskell-5E5086?logo=haskell&logoColor=white&style=flat)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
+![NuShell](https://img.shields.io/badge/-NuShell-563D7C?logo=nushell&logoColor=white&style=flat)
 
 ---
 
