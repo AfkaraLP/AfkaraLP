@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm AfkaraLP 👋</h1>
 
----
-
 ### About Me:
 
 I'm currently a **Data Science** student.  
