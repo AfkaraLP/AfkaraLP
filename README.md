@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm AfkaraLP 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Student;Rust+%26+Nix+Enthusiast;Frontend+Craftsman;Music+Nerd;Minceraft+Gamer&center=true&width=500&height=45">
-</p>
-
 ---
 
 ### About Me:
@@ -41,15 +37,6 @@ When I'm not coding, I'm cooking up the next big Minceraft Youtuber Intro from 2
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AfkaraLP&layout=compact&theme=tokyonight" width="49%" alt="Top Languages" />
 </p>
 
-
----
-
-### Connect With Me:
-
-<p>
-  <a href="https://github.com/AfkaraLP"><img src="https://img.shields.io/badge/Guide To Recursion-100000?logo=github&logoColor=white&style=for-the-badge"/></a>
-  <a href="mailto:afkara@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-</p>
 
 ---
 
