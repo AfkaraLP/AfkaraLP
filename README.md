@@ -40,4 +40,4 @@ When I'm not coding, I'm cooking up the next big Minceraft Youtuber Intro from 2
 
 > _“If you're not directly shorting your circuits to write instructions to your CPU are you even a real programmer?”_
 
-###### _this readme was 99% vibe coded_
+[![💡 Note](https://img.shields.io/badge/💡Guide_To_Recursion-orange?style=for-the-badge)](https://github.com/AfkaraLP)
